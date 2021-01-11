@@ -24,6 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Alt Text](https://img.php.cn/upload/article/202008/06/2020080609525756070.jpg)
 ```
