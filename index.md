@@ -24,8 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+![Alt Text](https://img.php.cn/upload/article/202008/06/2020080609525756070.jpg)
 ```
-[http://www.sjxhr.com]![https://img.php.cn/upload/article/202008/06/2020080609525756070.jpg]
+[http://www.sjxhr.com](https://img.php.cn/upload/article/202008/06/2020080609525756070.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
